@@ -1,0 +1,16 @@
+Here are some places we could check out for best train connections
+
+www.bahn.de
+pros: good interface and search options
+cons: best price offers are usually not shown
+
+www.guenstigebahntickets.de
+pros: great cheap last-minute offers
+cons: hard to navigate interface. Usually includes connections with lots of transfers
+
+www.gobytrain.com
+pros: offers a very good interface for comparing route and prices
+cons: train connections in EU not covered that well
+
+www.onemorefictionaltrainpage.org
+pros: dunno
