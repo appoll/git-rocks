@@ -11,3 +11,6 @@ cons: hard to navigate interface. Usually includes connections with lots of tran
 www.gobytrain.com
 pros: offers a very good interface for comparing route and prices
 cons: train connections in EU not covered that well
+
+www.onemorefictionaltrainpage.org
+pros: dunno
