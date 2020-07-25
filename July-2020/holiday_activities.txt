@@ -5,4 +5,14 @@ What do we want to do when we are there?
 Hiking
 Swiming
 Visiting museums
-...
+Go to the mall
+Taking sun baths
+Reading a book
+Code all day
+Learn how to use Git
+Play Super Mario
+Go on a bike tour
+
+Take pictures
+53f3117... Adding some text/conflicts
+
