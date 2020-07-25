@@ -12,4 +12,5 @@ Code all day
 Learn how to use Git
 Play Super Mario
 Go on a bike tour
+Take pictures
 
