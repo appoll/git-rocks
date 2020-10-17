@@ -15,5 +15,5 @@ git config --global core.editor "'C:/Program Files (x86)/Notepad++/notepad++.exe
 3. Configure User Identity 
 ```
 git config --global user.name "Paul Anton"
-git config --glbal user.email "paul.antton@gmail.com"
+git config --global user.email "paul.antton@gmail.com"
 ```
